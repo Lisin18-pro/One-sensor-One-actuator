@@ -1,3 +1,4 @@
+'''cpp
 const int tempPin = A0;      // TMP36 output
 const int motorPin = 9;      // Motor control pin
 
@@ -35,3 +36,4 @@ void loop() {
 
   delay(1000);
 }
+'''
