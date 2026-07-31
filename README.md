@@ -1,2 +1,2 @@
-# Tinkercad
-This repository contains the Tinkercad projects I developed while learning Arduino programming, electronics, and embedded systems. I used Tinkercad to design and simulate electronic circuits, explore different sensors, actuators, displays, and motors, and gain practical experience in hardware interfacing and microcontroller programming.
+# One sensor & One actuator
+This repository showcases a Tinkercad project created as part of my Arduino learning journey. The project demonstrates the integration of a sensor and an actuator, helping me understand circuit simulation, hardware interfacing, and basic embedded system programming.
